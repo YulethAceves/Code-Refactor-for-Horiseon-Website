@@ -13,6 +13,11 @@ I fixed the semantic HTML elements so they follow a logical structure and made t
 
 ### Screenshot
 
-![screenshot](/assets/images/127.0.0.1_5501_Develop_index.html.png/)
+![screenshot](Develop/assets/images/127.0.0.1_5501_Develop_index.html.png)
+
+## Contact
+
+[Yuleth Aceves Github](https://github.com/YulethAceves)
+
 
 
