@@ -13,7 +13,7 @@ https://yulethaceves.github.io/Challenge1/
 
 ### Screenshot
 
-![screenshot](./Develop/assets/images/127.0.0.1_5501_Develop_index.html.png)
+![screenshot](/assets/images/127.0.0.1_5501_Develop_index.html.png)
 
 ## Contact
 
